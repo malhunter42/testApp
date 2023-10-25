@@ -1,1 +1,1 @@
-Write-Host 'Hello, World!'
+Start-Process calc
